@@ -7,8 +7,8 @@ console.log(mixedArray);
 // Output: ["Laiba", 42, [1, 2, 3], { schoolName: "SIES" }]
 
 
-console.log(studentNames[0]); // Output: "Prakash"
-console.log(studentNames[1]); // Output: "Ashish"
+console.log(studentNames[0]); 
+console.log(studentNames[1]); 
 
 for (let name of studentNames) {
     console.log(name);
